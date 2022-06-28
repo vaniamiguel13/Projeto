@@ -9,7 +9,7 @@ Variant Calling Pipeline written in shell for Plasmodium falciparum, using conda
 - Conda-forge: r
 - Bioconda: r-gsalib
 
-To test this Pipeline you can use the files that are in the following link:
+To test this Pipeline you can use the files that are in the following link: https://osf.io/ftkqw/?view_only=9dc1a3496e99420bb42ba5501ac1bb51
 
 ## Abstract
 Malaria is still today one of the major global diseases, affecting almost half of the world's population. Caused by several plasmodia parasites, *Plasmodium falciparum* stands out as one of the main causes of the disease. The use of antimalarial drugs is essential to fight the disease, however, due to its wide use, another problem arises, which is the parasites' resistance to antimalarial treatments.
