@@ -4,7 +4,7 @@
 #conda install -c bioconda picard
 #conda install -c bioconda gatk4
 #conda install -c bioconda snpeff
-#conda install -c conda-forge r
+#conda install r-gsalib
 #conda install -c bioconda r-gsalib
 
 echo 'Insert Path of Reference Genome'
