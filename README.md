@@ -10,7 +10,9 @@ Variant Calling Pipeline written in shell for Plasmodium falciparum, using conda
 - Bioconda: r-gsalib
 
 To test this Pipeline you can use the files that are in the following links: 
+
 https://uminho365-my.sharepoint.com/:f:/g/personal/pg45971_uminho_pt/EkwFr4fTbBRHqTdxQvL2lP8BEEBgTzDnuoUDGxBld39JJA?e=GkTGSBn (only UMinho) 
+
 https://osf.io/ftkqw/?view_only=9dc1a3496e99420bb42ba5501ac1bb51 
 
 ## Abstract
