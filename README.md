@@ -11,9 +11,9 @@ Variant Calling Pipeline written in shell for Plasmodium falciparum, using conda
 
 To test this Pipeline you can use the files that are in the following links: 
 
-https://uminho365-my.sharepoint.com/:f:/g/personal/pg45971_uminho_pt/EkwFr4fTbBRHqTdxQvL2lP8BEEBgTzDnuoUDGxBld39JJA?e=GkTGSBn (only UMinho) 
+- https://uminho365-my.sharepoint.com/:f:/g/personal/pg45971_uminho_pt/EkwFr4fTbBRHqTdxQvL2lP8BEEBgTzDnuoUDGxBld39JJA?e=GkTGSBn (only UMinho) 
 
-https://osf.io/ftkqw/?view_only=9dc1a3496e99420bb42ba5501ac1bb51 
+- https://osf.io/ftkqw/?view_only=9dc1a3496e99420bb42ba5501ac1bb51 
 
 ## Abstract
 Malaria is still today one of the major global diseases, affecting almost half of the world's population. Caused by several plasmodia parasites, *Plasmodium falciparum* stands out as one of the main causes of the disease. The use of antimalarial drugs is essential to fight the disease, however, due to its wide use, another problem arises, which is the parasites' resistance to antimalarial treatments.
